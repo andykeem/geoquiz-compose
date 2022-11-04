@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Geo Quiz Compose App</string>
+    <string name="question_1">Is Canberra the capital of Australia?</string>
+    <string name="answer_false">False</string>
+    <string name="answer_true">True</string>
+    <string name="answer_correct">Correct!</string>
+    <string name="answer_wrong">Wrong!</string>
+</resources>
